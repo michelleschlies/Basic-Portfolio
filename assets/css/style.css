@@ -1,0 +1,42 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    line-height: 45px;
+    color: #7777777;
+    background: url("../images/dark-honeycomb.png");
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+}
+
+h1 { color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border-bottom: 5px solid #dddddd;      
+}
+
+h2 { color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   border-bottom: 3pm solid #eeeeee;
+}
+
+h3 { color: #4aaaa5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    margin-bottom: 10px;
+    color: #777777;
+}
+
+nav {
+    float: right;
+    margin-top: 20px;
+}
+
